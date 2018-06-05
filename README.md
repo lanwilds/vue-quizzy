@@ -3,10 +3,10 @@ A Quiz App developed using VueJS, Vuex store, Laravel, JWT and Bootstrap for the
 This app has Login Authentication and JWT setup.
 Live visit to use this web app http://www.lanwildsouza.tk/quizzy
 ## Installation
-> composer install
-> npm install
-> php artisan jwt:secret
-> npm run dev or watch
+> composer install<br>
+> npm install<br>
+> php artisan jwt:secret<br>
+> npm run dev or watch<br>
 ## JWT API
 > Json Web Tokens
 ## Laravel's ORM Eloquent
