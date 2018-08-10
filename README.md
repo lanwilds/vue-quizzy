@@ -31,4 +31,5 @@ Live visit to use this web app http://www.lanwildsouza.tk/quizzy
   http://jwt-auth.readthedocs.io 
   **Bootstrap-Bootswatch Materia**
    http://bootswatch.com/materia 
-
+##LICENCE
+Copyright 2018 LanwilDS Licenced to MIT licence
